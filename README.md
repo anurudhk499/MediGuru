@@ -105,8 +105,8 @@ The system exposes retrieved evidence, making the reasoning process more transpa
 ## Project Structure
 
 
-MediGuru/
-│
+MediGuru/<br>
+│<br>
 ├── streamlit_app.py # Main application (UI + pipeline integration)
 ├── vector_store/
 │ ├── index.faiss # FAISS vector index
