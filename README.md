@@ -113,7 +113,8 @@ MediGuru/<br>
 │ └── documents.pkl # Stored document chunks<br>
 │<br>
 ├── data/ # Source medical documents (PDFs)<br>
-├── requirements.txt<br>
+├── app.py<br>
+├── rag_engine.py<br>
 └── README.md<br>
 
 
