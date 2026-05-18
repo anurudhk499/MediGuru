@@ -107,14 +107,14 @@ The system exposes retrieved evidence, making the reasoning process more transpa
 
 MediGuru/<br>
 │<br>
-├── streamlit_app.py # Main application (UI + pipeline integration)
-├── vector_store/
-│ ├── index.faiss # FAISS vector index
-│ └── documents.pkl # Stored document chunks
-│
-├── data/ # Source medical documents (PDFs)
-├── requirements.txt
-└── README.md
+├── streamlit_app.py # Main application (UI + pipeline integration)<br>
+├── vector_store/<br>
+│ ├── index.faiss # FAISS vector index<br>
+│ └── documents.pkl # Stored document chunks<br>
+│<br>
+├── data/ # Source medical documents (PDFs)<br>
+├── requirements.txt<br>
+└── README.md<br>
 
 
 ---
